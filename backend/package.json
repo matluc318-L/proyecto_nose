@@ -1,0 +1,14 @@
+{
+  "name": "registro-visitas-backend",
+  "version": "1.0.0",
+  "description": "API Node.js para registro de visitas con SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
